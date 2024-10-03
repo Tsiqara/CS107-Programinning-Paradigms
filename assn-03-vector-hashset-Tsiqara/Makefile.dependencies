@@ -1,0 +1,9 @@
+-g
+-Wall
+-Wpointer-arith
+-MM
+vector.c
+hashset.c
+streamtokenizer.c
+vectortest.c
+hashsettest.c
